@@ -1,4 +1,4 @@
-​🍕 Pizza Sales Analysis: End-to-End Data Analytics Project
+#Pizza Sales Analysis: End-to-End Data Analytics Project
 
 ​📜 Project Overview
 ​This project provides a comprehensive Pizza Sales Analysis, showcasing an end-to-end data analytics workflow. I leveraged various industry tools to transform raw data into actionable business intelligence. The workflow covers everything from initial data cleaning and transformation using Excel and SQL to advanced reporting and visualization using Power BI and Tableau.
